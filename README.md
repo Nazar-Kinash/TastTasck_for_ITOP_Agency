@@ -1,3 +1,7 @@
+# Link to netlify-page
+
+https://test-tasck-for-itop-agency.netlify.app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
